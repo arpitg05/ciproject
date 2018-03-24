@@ -1,0 +1,270 @@
+[
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896066057,
+            "changeTime": 1521896066057,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896066058,
+            "changeTime": 1521896066058,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896753875,
+            "changeTime": 1521896753875,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896066061,
+            "changeTime": 1521896066061,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896132303,
+            "changeTime": 1521896132303,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects\\Case\\fields\\Comments__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects\\Case\\fields\\Comments__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 448,
+            "modifiedTime": 1521896753782,
+            "changeTime": 1521896753782,
+            "contentHash": "2e33cc557dd346c47418cd9609464b96296e72ae"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12047,
+            "modifiedTime": 1521896753804,
+            "changeTime": 1521896753804,
+            "contentHash": "4c14df564e7ef4f27a15cb2f093a4ac1e6a416f4"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12051,
+            "modifiedTime": 1521896753822,
+            "changeTime": 1521896753822,
+            "contentHash": "d2d838afe77d760fb7e69f55fd25a5c36870fa60"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11852,
+            "modifiedTime": 1521896753835,
+            "changeTime": 1521896753835,
+            "contentHash": "c86f419dd986eae2cb94f4c8fadc45456f3e10ae"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\Case-Case %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11852,
+            "modifiedTime": 1521896753846,
+            "changeTime": 1521896753846,
+            "contentHash": "9df7f9a123521ad8fc07ce4e7e0706c1f9561554"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\CaseClose-Close Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts\\CaseClose-Close Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1289,
+            "modifiedTime": 1521896753858,
+            "changeTime": 1521896753858,
+            "contentHash": "ea3b53e51ee409dcbce00570687cba2fbb9099b2"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17729,
+            "modifiedTime": 1521896753886,
+            "changeTime": 1521896753886,
+            "contentHash": "545db5f5536c8218e24f0eb55c8f7a24cef5a06c"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4685,
+            "modifiedTime": 1521896753899,
+            "changeTime": 1521896753899,
+            "contentHash": "52ad3776846fd00052a4d6232457164ad7312044"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5025,
+            "modifiedTime": 1521896753909,
+            "changeTime": 1521896753909,
+            "contentHash": "c9d85006d30ec9399335d6b2f60894d90dd66875"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4689,
+            "modifiedTime": 1521896753917,
+            "changeTime": 1521896753917,
+            "contentHash": "185bf35e2a78bef499c0c956b6acfb5832e7ac62"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects\\Case\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896753781,
+            "changeTime": 1521896753781,
+            "contentHash": "4290ace6d082d580ec28bd1e3cdb69dd0c94560c"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects\\Case",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896753776,
+            "changeTime": 1521896753776,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896753775,
+            "changeTime": 1521896753775,
+            "contentHash": "9254c4bba00f5ff69304a7921d3118fcbac7e6b8"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896753857,
+            "changeTime": 1521896753857,
+            "contentHash": "ac6c3774a01fd4442bb277c304be6628331de801"
+        }
+    ],
+    [
+        "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ArpitGupta\\SFData\\ciproject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521896753916,
+            "changeTime": 1521896753916,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
